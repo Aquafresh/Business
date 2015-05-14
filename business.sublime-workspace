@@ -1,0 +1,835 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"righ",
+				"border-right"
+			],
+			[
+				"bu",
+				"business"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ta",
+				"table	Tag"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"de",
+				"design"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"Con",
+				"Contact"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"cot",
+				"content"
+			],
+			[
+				"on",
+				"outline"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"td",
+				"td-u	text-decoration: underline;"
+			],
+			[
+				"border-",
+				"border-bottom-color"
+			],
+			[
+				"tablec",
+				"table-column"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"у",
+				"ухода"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"textd",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"my",
+				"mycom	mycom"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Кр",
+				"Корзина"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bored",
+				"border-top"
+			],
+			[
+				"cle",
+				"cellspacing	Attr"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7959,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 16777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/animate.css",
+			"settings":
+			{
+				"buffer_size": 71089,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: my"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: SFTP",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())﻿"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Web/Business"
+	],
+	"file_history":
+	[
+		"/E/Web/Business/css/animate.css",
+		"/E/Web/Business/img/banner-img.png",
+		"/E/Web/GerduKreatip/css/style.css",
+		"/E/Web/GerduKreatip/index.html",
+		"/E/Web/jetro-web/css/style.css",
+		"/E/Web/jetro-web/portfolio.html",
+		"/E/Web/jetro-web/portfolio-item.html",
+		"/E/Web/jetro-web/contact.html",
+		"/E/Web/jetro-web/blog.html",
+		"/E/Web/jetro-web/about.html",
+		"/E/Web/jetro-web/index.html",
+		"/E/Web/jetro-web/js/main.js",
+		"/E/Верстка/jetro/img/small-img-slider-1.jpg",
+		"/E/Верстка/jetro/css.css",
+		"/E/test/owl.carousel.js",
+		"/E/test/technomart-catalog.html",
+		"/E/test/technomart-index.html",
+		"/E/test/todo.todo",
+		"/E/test/newone.html",
+		"/E/test/style-shop.css",
+		"/E/test/bardershop-index.html",
+		"/E/test/style.css",
+		"/E/test/JS-test.js",
+		"/E/test/style-shop-dist.css",
+		"/E/test/barbershop-shop.html",
+		"/E/test/barbershop-item.html",
+		"/C/Users/Home/Desktop/Макеты/Academy/technomart/symbols-technomart/config.json",
+		"/E/test/academy/technomart-img/slaider-image1.jpg",
+		"/E/test/barbershop-price.html",
+		"/E/test/academy/symbols-technomart/css/symbols-technomart-ie7.css",
+		"/E/test/style-catalog.css",
+		"/E/test/style-item.css",
+		"/E/Sublime Text/Data/Packages/User/CSScomb.sublime-settings",
+		"/E/test/academy/barbershop-img/item-image_01.jpg",
+		"/E/Sublime Text/Data/Packages/CSScomb/CSScomb.sublime-settings",
+		"/E/test/.csscomb.json",
+		"/E/Sublime Text/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/E/Sublime Text/Data/Packages/CSScomb/README.md",
+		"/E/test/newone.css",
+		"/E/test/index.html",
+		"/E/test/nerds-catalog.html",
+		"/E/test/nerds.html",
+		"/E/test/New.css",
+		"/E/test/academy/technomart-img/aticle-item2-image.jpg",
+		"/E/test/academy/technomart-catalog.jpg",
+		"/E/test/New.html",
+		"/E/test/My.html",
+		"/E/test/barbershop-item",
+		"/E/Sublime Text/Data/Packages/User/mycom.sublime-snippet",
+		"/E/Sublime Text/Data/Packages/User/cc.sublime-snippet",
+		"/E/test/anim.css",
+		"/E/test/animate.css",
+		"/E/test/anim.html",
+		"/E/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Home/Desktop/Макеты/Готовые/Черный макет/Black psd/index.html",
+		"/C/Users/Home/Documents/index.html",
+		"/E/test/Sla/index.html",
+		"/E/test/Sla/js/index.js",
+		"/E/test/Sla/css/style.css",
+		"/E/test/Sla/css/reset.css",
+		"/E/test/Boootstrap/index.html",
+		"/E/test/Boootstrap/css/fonts.css",
+		"/E/test/Boootstrap/mail.php",
+		"/E/test/2112/index.html",
+		"/E/test/2112/demo/styles/demo.css",
+		"/E/test/2112/js/index.js",
+		"/E/test/New/images/sprait.jpg",
+		"/E/Sublime Text/Data/Packages/User/my.sublime-snippet",
+		"/E/Sublime Text/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/test/modul/m_style.css",
+		"/E/test/mylessstyle.less",
+		"/E/Sublime Text/Data/Packages/Tag/Tag Package.sublime-settings",
+		"/E/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/test/modul/modul.html",
+		"/E/Sublime Text/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/E/Sublime Text/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel",
+			"car",
+			"slide",
+			"main-sl",
+			"btn",
+			"max",
+			"img-wrap",
+			"120",
+			"140",
+			"wrap-stripe",
+			"display: inline-block",
+			"group",
+			"form",
+			"border-radius",
+			"content:",
+			"content: '';",
+			"content: '\\62';",
+			",\n",
+			"\\62",
+			"thi",
+			"popular-block",
+			"table",
+			"price",
+			"height",
+			"main-contacts",
+			"main-contacts>p",
+			"left-text",
+			"wrapper",
+			"row",
+			"container",
+			"item-price-bar",
+			"item-info-block",
+			"gar",
+			"info",
+			"write-us",
+			"bookmark",
+			"img",
+			"bookmark",
+			"boolmark",
+			"delivery",
+			"catalog",
+			"company",
+			"contact",
+			"contact-info",
+			"contact",
+			"img",
+			"> "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6572,
+								6572
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3366.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16617,
+								16617
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15003.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/animate.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46888,
+								47776
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 40724.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.555638754378,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "business.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Sublime Text\\techo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
