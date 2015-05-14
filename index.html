@@ -5,7 +5,6 @@
 	<meta name="discription" content="Описание сайта">
 	<meta name="keywords" content="Ключенивые слова">
 	<link href="css/normalize.css" rel="stylesheet">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,300,700&amp;subset=cyrillic-ext' rel='stylesheet'>
 	<link rel="stylesheet" href="css/style.css">
 	<title>business</title>
 </head>
@@ -33,17 +32,18 @@
 							<a href="#">Home</a>
 						</li>
 						<li>
-							<a href="#">About Us</a>
+							<a href="#section1">About Us</a>
 						</li>
 						<li>
-							<a href="#">Our Approch</a>
+							<a href="#section2">Our Approch</a>
 						</li>
 						<li>
-							<a href="#">Our Work</a>
+							<a href="#section3">Our Work</a>
 						</li>
 						<li>
 							<a class="btn-red" href="#">Free consultation</a>
 						</li>
+
 					</ul>
 				</nav>
 			</div>
@@ -57,7 +57,7 @@
 				<a href="#">Free Consultation</a>
 			</div>
 		</div>
-		<section class="about-us">
+		<section class="about-us" id="section1">
 			<div class="container">
 				<div class="section-title">
 					<h3>About Us</h3>
@@ -77,7 +77,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="our-approch">
+		<section class="our-approch" id="section2">
 			<div class="container">
 				<div class="section-title">
 					<h3>Our Approch</h3>
@@ -137,7 +137,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="our-work">
+		<section class="our-work" id="section3">
 			<div class="container">
 				<div class="section-title">
 					<h3>Our Approch</h3>
@@ -228,45 +228,6 @@
 	</footer>
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.viewportchecker.js"></script>
-	<script>
-		jQuery(document).ready(function() {
-		jQuery('.features').addClass("hidden").viewportChecker({
-		classToAdd: 'visible animated zoomInUp',
-		offset: 100
-		});
-		});
-
-		jQuery(document).ready(function() {
-		jQuery('.steps-block,.top-blocks').addClass("hidden").viewportChecker({
-		classToAdd: 'visible animated bounceInLeft',
-		offset: 100
-		});
-		});
-
-		jQuery(document).ready(function() {
-		jQuery('.steps-reverse-block,.bottom-blocks').addClass("hidden").viewportChecker({
-		classToAdd: 'visible animated bounceInRight',
-		offset: 100
-		});
-		});
-
-		var open = document.querySelector(".popup-show");
-		var form = document.querySelector(".popup-form");
-		var close = document.querySelector(".close-popup-form");
-
-		open.addEventListener("click", function(event) {
-		event.preventDefault();
-		form.classList.add("popup-form-show");
-		});
-
-		close.addEventListener("click", function(event) {
-		event.preventDefault();
-		form.classList.add("animated");
-		form.classList.add("bounceOutDown");
-			setTimeout(function(){
-			form.classList.remove("popup-form-show");
-			},2000)
-		});
-	</script>
+	<script src="js/main.js"></script>
 </body>
 </html

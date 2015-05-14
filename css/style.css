@@ -601,8 +601,7 @@ a {
 }
 
 .main-banner h2,
-.main-banner span,
-.main-banner a {
+.main-banner span {
     display: block;
     text-align: center;
 }
@@ -621,8 +620,10 @@ a {
 }
 
 .main-banner a {
+    display: table;
     margin: 0 auto;
-    width: 330px;
+    text-align: center;
+    min-width: 330px;
     height: 69px;
     background-color: #f8cd53;
     text-transform: uppercase;
