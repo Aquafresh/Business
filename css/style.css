@@ -420,8 +420,8 @@ a {
 }
 
 .container {
-	margin: auto;
-	width: 1004px;
+	 margin: auto;
+	 width: 1004px;
     padding: 0 10px;
 }
 
@@ -599,6 +599,7 @@ a {
     background-position: center bottom;
     min-height: 590px;
     width: 1400px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -678,11 +679,11 @@ a {
     margin: 0;
 }
 
-.section-title>span {
+.section-title>p {
     font-size: 16px;
     color: #424242;
     text-align: center;
-    display: block;
+    margin: 0;
 }
 
 .features {
@@ -893,10 +894,11 @@ a {
     background-color: #f35e59;
 }
 
-.top-blocks>li,p,
+.top-blocks>li,
 .top-blocks>li,h4,
 .bottom-blocks>li>h4,
-.bottom-blocks>li>p {
+.bottom-blocks>li>p,
+.our-work .section-title>p  {
     color: #fff;
     margin: 0;
     text-align: center;
