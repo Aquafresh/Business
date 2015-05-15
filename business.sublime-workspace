@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"se",
+				"section1"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"brr",
+				"border-radius"
+			],
+			[
 				"br",
 				"border-radius"
 			],
@@ -308,10 +324,6 @@
 				"article	Tag"
 			],
 			[
-				"d",
-				"display"
-			],
-			[
 				"fo",
 				"font-weight"
 			],
@@ -338,10 +350,6 @@
 			[
 				"border-c",
 				"border-collapse"
-			],
-			[
-				"se",
-				"section	Tag"
 			],
 			[
 				"to",
@@ -383,7 +391,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7959,
+				"buffer_size": 7659,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1570,
 				"line_ending": "Windows"
 			}
 		},
@@ -391,16 +407,8 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 16777,
+				"buffer_size": 21920,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/animate.css",
-			"settings":
-			{
-				"buffer_size": 71089,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -629,15 +637,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7959,
+						"buffer_size": 7659,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6572,
-								6572
+								7625,
+								7625
 							]
 						],
 						"settings":
@@ -652,10 +660,42 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3366.0,
+						"translation.y": 1242.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -665,20 +705,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16777,
+						"buffer_size": 21920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16617,
-								16617
+								13237,
+								13237
 							]
 						],
 						"settings":
@@ -688,45 +728,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 15003.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/animate.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 71089,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								46888,
-								47776
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 40724.0,
+						"translation.y": 10521.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -763,7 +769,7 @@
 		"cols":
 		[
 			0.0,
-			0.555638754378,
+			0.485679906641,
 			1.0
 		],
 		"rows":
