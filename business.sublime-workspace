@@ -391,7 +391,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7987,
+				"buffer_size": 7970,
 				"line_ending": "Windows"
 			}
 		},
@@ -407,7 +407,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 21976,
+				"buffer_size": 22156,
 				"line_ending": "Windows"
 			}
 		}
@@ -467,8 +467,7 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Web/Business",
-		"/E/Web/Business/img"
+		"/E/Web/Business"
 	],
 	"file_history":
 	[
@@ -565,6 +564,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"section-title",
+			"section-title>span",
 			"carousel",
 			"car",
 			"slide",
@@ -638,15 +639,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7987,
+						"buffer_size": 7970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5494,
-								5494
+								1409,
+								1400
 							]
 						],
 						"settings":
@@ -661,10 +662,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4158.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -695,6 +696,8 @@
 							"auto_complete": false,
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
 							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -717,15 +720,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21976,
+						"buffer_size": 22156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12921,
-								12921
+								14159,
+								14159
 							]
 						],
 						"settings":
@@ -739,10 +742,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10359.0,
+						"translation.y": 12122.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -818,7 +821,7 @@
 		[
 			[
 				"",
-				"E:\\Sublime Text\\techo.sublime-project"
+				"E:\\Web\\Magu\\Magu.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -832,7 +835,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

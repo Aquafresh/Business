@@ -537,27 +537,35 @@ a {
 
 .nav-menu {
     float: right;
-    margin-top: 62px;
+    margin-top: 52px;
+}
+
+.nav-menu ul{
+    float: left;
 }
 
 .nav-menu li {
     display: inline-block;
     margin-left: 38px;
     position: relative;
+    vertical-align: top;
+    margin-top: 10px;
 }
 
-.nav-menu a {
+.nav-menu li>a {
     color: #424242;
     font-weight: bold;
     font-size: 15px;
 }
 
-.nav-menu .btn-red {
+.btn-red {
     min-width: 128px;
     background-color: #de2b24;
     color: #fff;
     padding: 12px 23px;
     border-radius: 4px;
+    float: right;
+    margin-left: 30px;
 }
 
 .nav-menu li:not(:nth-child(n+4)):after {
@@ -686,11 +694,15 @@ a {
     margin: 0;
 }
 
+.about-us>.container {
+    font-size: 0;
+}
+
 .features {
     display: inline-block;
     width: 250px;
     text-align: center;
-    margin-right: 90px;
+    margin-right: 94px;
     vertical-align: top;
     margin-bottom: 120px;
 }
