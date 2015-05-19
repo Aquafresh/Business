@@ -467,7 +467,8 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Web/Business"
+		"/E/Web/Business",
+		"/E/Web/Business/js"
 	],
 	"file_history":
 	[
@@ -646,8 +647,8 @@
 						"selection":
 						[
 							[
-								1409,
-								1400
+								7970,
+								7970
 							]
 						],
 						"settings":
@@ -662,16 +663,16 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.y": 1674.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"file": "img/chess-img3.jpg",
 					"semi_transient": true,
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "image"
 				},
 				{
@@ -687,8 +688,8 @@
 						"selection":
 						[
 							[
-								2,
-								2
+								1548,
+								1548
 							]
 						],
 						"settings":
@@ -705,7 +706,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -727,8 +728,8 @@
 						"selection":
 						[
 							[
-								14159,
-								14159
+								165,
+								165
 							]
 						],
 						"settings":
@@ -738,14 +739,14 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12122.0,
+						"translation.y": 13853.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -821,7 +822,7 @@
 		[
 			[
 				"",
-				"E:\\Web\\Magu\\Magu.sublime-project"
+				"E:\\Sublime Text\\techo.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -835,7 +836,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
