@@ -135,10 +135,10 @@
 }
 
 .animated {
-  -webkit-animation-duration: 1.5s;
-  animation-duration: 1.5s;
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
+        -webkit-animation-duration: 1.5s;
+        animation-duration: 1.5s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
 }
 
 @-webkit-keyframes bounceInLeft {
@@ -1166,4 +1166,5 @@ input[type="email"] {
     padding-top: 26px;
     padding-bottom: 30px;
     color: #adadad;
+    width: 350px;
 }

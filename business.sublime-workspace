@@ -4,50 +4,6 @@
 		"selected_items":
 		[
 			[
-				"se",
-				"section1"
-			],
-			[
-				"o",
-				"outline"
-			],
-			[
-				"d",
-				"document"
-			],
-			[
-				"brr",
-				"border-radius"
-			],
-			[
-				"br",
-				"border-radius"
-			],
-			[
-				"co",
-				"color"
-			],
-			[
-				"min",
-				"min-height"
-			],
-			[
-				"righ",
-				"border-right"
-			],
-			[
-				"bu",
-				"business"
-			],
-			[
-				"a",
-				"a	Tag"
-			],
-			[
-				"ta",
-				"table	Tag"
-			],
-			[
 				"sc",
 				"script	Tag"
 			],
@@ -66,6 +22,10 @@
 			[
 				"bor",
 				"border"
+			],
+			[
+				"ta",
+				"textarea	Tag"
 			],
 			[
 				"s",
@@ -108,8 +68,16 @@
 				"message"
 			],
 			[
+				"a",
+				"alert"
+			],
+			[
 				"cot",
 				"content"
+			],
+			[
+				"min",
+				"min-width"
 			],
 			[
 				"on",
@@ -126,6 +94,10 @@
 			[
 				"border-",
 				"border-bottom-color"
+			],
+			[
+				"co",
+				"color"
 			],
 			[
 				"tablec",
@@ -324,6 +296,10 @@
 				"article	Tag"
 			],
 			[
+				"d",
+				"display"
+			],
+			[
 				"fo",
 				"font-weight"
 			],
@@ -352,6 +328,10 @@
 				"border-collapse"
 			],
 			[
+				"se",
+				"section	Tag"
+			],
+			[
 				"to",
 				"top"
 			],
@@ -370,6 +350,10 @@
 			[
 				"inli",
 				"inline-block"
+			],
+			[
+				"bu",
+				"button	Tag"
 			],
 			[
 				"for",
@@ -396,18 +380,10 @@
 			}
 		},
 		{
-			"file": "js/main.js",
-			"settings":
-			{
-				"buffer_size": 1570,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 22156,
+				"buffer_size": 22180,
 				"line_ending": "Windows"
 			}
 		}
@@ -468,22 +444,18 @@
 	"expanded_folders":
 	[
 		"/E/Web/Business",
-		"/E/Web/Business/js"
+		"/E/Web/Business/css"
 	],
 	"file_history":
 	[
-		"/E/Web/Business/css/animate.css",
-		"/E/Web/Business/img/banner-img.png",
-		"/E/Web/GerduKreatip/css/style.css",
-		"/E/Web/GerduKreatip/index.html",
-		"/E/Web/jetro-web/css/style.css",
-		"/E/Web/jetro-web/portfolio.html",
-		"/E/Web/jetro-web/portfolio-item.html",
-		"/E/Web/jetro-web/contact.html",
-		"/E/Web/jetro-web/blog.html",
-		"/E/Web/jetro-web/about.html",
-		"/E/Web/jetro-web/index.html",
-		"/E/Web/jetro-web/js/main.js",
+		"/E/bardershop/bardershop.sublime-project",
+		"/E/Web/jetro/contact.html",
+		"/E/Web/jetro/index.html",
+		"/E/Web/jetro/css/style.css",
+		"/E/Web/jetro/portfolio.html",
+		"/E/Web/jetro/portfolio-item.html",
+		"/E/Web/jetro/about.html",
+		"/E/Web/jetro/blog.html",
 		"/E/Верстка/jetro/img/small-img-slider-1.jpg",
 		"/E/Верстка/jetro/css.css",
 		"/E/test/owl.carousel.js",
@@ -565,8 +537,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"section-title",
-			"section-title>span",
 			"carousel",
 			"car",
 			"slide",
@@ -647,8 +617,8 @@
 						"selection":
 						[
 							[
-								7970,
-								7970
+								6140,
+								6144
 							]
 						],
 						"settings":
@@ -663,50 +633,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4303.0,
+						"translation.y": 3366.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"file": "img/chess-img3.jpg",
-					"semi_transient": true,
-					"stack_index": 3,
-					"type": "image"
-				},
-				{
-					"buffer": 1,
-					"file": "js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1570,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1548,
-								1548
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -716,20 +646,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22156,
+						"buffer_size": 22180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								165,
-								165
+								6677,
+								8218
 							]
 						],
 						"settings":
@@ -743,10 +673,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 13853.0,
+						"translation.y": 5130.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -780,7 +710,7 @@
 		"cols":
 		[
 			0.0,
-			0.485679906641,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -822,7 +752,7 @@
 		[
 			[
 				"",
-				"E:\\Sublime Text\\test.sublime-project"
+				"E:\\Web\\Magu\\magu.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -844,7 +774,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 219.0,
+	"side_bar_width": 297.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
