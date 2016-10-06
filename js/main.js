@@ -25,6 +25,7 @@
 
 		open.addEventListener("click", function(event) {
 		event.preventDefault();
+		$(form).removeClass('bounceOutDown popup-form-show')
 		form.classList.add("popup-form-show");
 		});
 
